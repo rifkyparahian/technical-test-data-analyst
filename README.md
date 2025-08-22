@@ -51,3 +51,4 @@ Analisis dilakukan menggunakan **SQL (BigQuery)**, **Google Looker Studio**, dan
 ## 👤 Author
 *Muh Rifky Parahian Sopian - rifkyparahian2@gmail.com*  
 Technical Test 1 - Data Analyst
+Jika ingin melihat Portofolio saya terkait Data Analyst bisa di cek di link ini  [Canva Link] (https://www.canva.com/design/DAGNMBhtGgQ/ywmcwLJlzVw-nVfYTtTi3g/edit?utm_content=DAGNMBhtGgQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

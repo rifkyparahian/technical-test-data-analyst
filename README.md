@@ -35,7 +35,7 @@ Analisis dilakukan menggunakan **SQL (BigQuery)**, **Google Looker Studio**, dan
 
 - ✅ SQL Script: [`queries.sql`](./queries.sql)  
 - ✅ Documentation: `README.md`  
-- ✅ Presentation: `presentation.pdf`  
+- ✅ Presentation: [`presentation.pdf`](./presentation.pdf)  
 - ✅ Dashboard: [Looker Studio Link](#)  
 
 ---
